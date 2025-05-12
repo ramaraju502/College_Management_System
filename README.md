@@ -1,12 +1,16 @@
 Work_Flow
-index.php
 
-course-detials.php
-Gallery.php
-contact.php
-notices.php
-result.php
-adminlogin.php
+Header
+
+1.index.php
+
+2.course-detials.php
+
+3.Gallery.php
+4.contact.php
+5.notices.php
+6.result.php
+7.adminlogin.php
 (adminpanel inside all the files)
 i)Dasboard
 ii)Students
