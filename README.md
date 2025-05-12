@@ -10,8 +10,6 @@
 
 # 🎓 College Management System – PHP & MySQL
 
-# 🎓 College Management System – PHP & MySQL
-
 A responsive web application designed to streamline academic and administrative operations in a college environment. Built with PHP, MySQL, Bootstrap, and Tailwind CSS.
 
 ## 🔧 Features
