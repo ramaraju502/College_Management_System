@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-College%20Management%20System-blue" />
+  <img src="https://img.shields.io/badge/Language-PHP-informational" />
+  <img src="https://img.shields.io/badge/Database-MySQL-success" />
+  <img src="https://img.shields.io/badge/UI-Bootstrap%20%7C%20TailwindCSS-yellow" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
+</p>
+
+---
+
+# 🎓 College Management System – PHP & MySQL
+
 # 🎓 College Management System – PHP & MySQL
 
 A responsive web application designed to streamline academic and administrative operations in a college environment. Built with PHP, MySQL, Bootstrap, and Tailwind CSS.
